@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8119771e-1f3f-4527-9cfb-0da30b1849ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deployment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deployment.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
